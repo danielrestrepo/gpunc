@@ -1,0 +1,1 @@
+Esta aplicación, sirve para la generación de cuentas iniciales para la aplicación GNUCASH con el PUC de colombia.
